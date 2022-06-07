@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    font-size: 18px;
+    font-family: 'Merriweather', serif;
+}
+
+header{
+    background-color: darkolivegreen;
+    text-align: center;
+}
+
+h1, h2{
+    font-family: 'Henny Penny', cursive;
+}
+
+h1{
+    font-size: 60px;
+    color: snow;
+    margin: 1%;
+}
+
+header img{
+    border-radius: 150px;
+    border: 2px solid snow;
+    width: 125px;
+    margin-top: 25px;
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-color: white;
+}
+
+main img{
+    max-width: 100%;
+}
+
+h2{
+    font-size: 45px;
+    color: darkolivegreen;
+}
+
+a{
+    color: darkolivegreen;
+}
+
+a:hover{
+    color: olivedrab;
+}
+
+a:visited{
+    color: Lightgreen;
+}
+
+
+
+footer{
+    margin: 5%;
+    text-align: center;
+}
+
+footer p{
+    font-size: 10px;
+}
