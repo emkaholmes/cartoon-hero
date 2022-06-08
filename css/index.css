@@ -4,6 +4,8 @@ body{
     font-family: 'Merriweather', serif;
 }
 
+/*header styles*/
+
 header{
     background-color: darkolivegreen;
     text-align: center;
@@ -25,6 +27,8 @@ header img{
     width: 125px;
     margin-top: 25px;
 }
+
+/*main styles*/
 
 main{
     max-width: 800px;
@@ -52,6 +56,8 @@ main p, ol, ul{
     margin-top: 0;
 }
 
+/*Meme Links*/
+
 a{
     color: darkolivegreen;
 }
@@ -64,6 +70,7 @@ a:hover{
     color: olivedrab;
 }
 
+/*footer styles*/
 
 footer{
     margin: 5%;
