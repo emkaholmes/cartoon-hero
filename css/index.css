@@ -37,23 +37,32 @@ main img{
     max-width: 100%;
 }
 
+figcaption{
+    color: #999;
+    font-style: italic;
+}
+
 h2{
     font-size: 45px;
     color: darkolivegreen;
+    margin: 0 auto;
+}
+
+main p, ol, ul{
+    margin-top: 0;
 }
 
 a{
     color: darkolivegreen;
 }
 
+a:visited{
+    color: blueviolet;
+}
+
 a:hover{
     color: olivedrab;
 }
-
-a:visited{
-    color: Lightgreen;
-}
-
 
 
 footer{
